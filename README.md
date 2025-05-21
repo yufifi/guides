@@ -22,7 +22,7 @@ Este repositório é dedicado à documentação de procedimentos, tutoriais e gu
 README.md
 ```
 
-Cada pasta contém tutoriais específicos para a categoria descrita.
+Cada diretório contém tutoriais específicos para a categoria descrita.
 
 ---
 
